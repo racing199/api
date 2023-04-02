@@ -1,4 +1,4 @@
-# Move repositories notice
+## Move repositories notice
 Unfortunately this package cannot be maintained at this location anymore due to broken CI integrations, and travis-ci likely can't be used much longer either due to their change to paid plans. This project is still being actively maintained, we ask you to please switch to the following repository: https://github.com/api-ecosystem-for-laravel/dingo-api
 
 ---
